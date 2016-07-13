@@ -1,9 +1,9 @@
 # Site settings
-title: Siddharth Ghedia
+title: Web Coder
 email: siddharthghedia@domain.com
 url: https://siddharthghedia.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - User Experience Designer"
+description: "I'm Siddharth Ghedia, I'm a Web Developer, having 2 years of experience in working with Web Technologies like Php, Javascript, CSS, Jquery and Bootstrap"
+skills: "Web Developer and User Experience Designer"
 meta_author: Ghedia Siddharth
 
 # Google webmaster tools
@@ -24,7 +24,7 @@ disqus_shortname: sid
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: black #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
