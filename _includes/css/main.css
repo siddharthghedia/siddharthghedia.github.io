@@ -208,6 +208,10 @@ section.success {
     margin: 0 0 15px;
 }
 
+#portfolio h2 {
+    color: black !important;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
