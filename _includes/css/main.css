@@ -80,7 +80,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: black !important;
     background-color: #fff;
 }
 
