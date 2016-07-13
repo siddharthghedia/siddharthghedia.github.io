@@ -18,7 +18,7 @@ body {
     color: black !important;
 }
 .navbar-nav>.active>a {
-    background-color: #f9f2f4;
+    background-color: #f9f2f4 !important;
 }
 p {
     font-size: 20px;
