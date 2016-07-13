@@ -4,6 +4,7 @@ modal-id: 1
 img: laravel.png
 alt: Laravel
 category: Web Development
+title: Laravel
 description: I'm having an experience of more than 1.5 years on working with most popular framework of PHP - Laravel.
 
 ---
