@@ -5,6 +5,6 @@ img: laravel.png
 alt: Laravel
 category: Web Development
 title: Laravel
-description: I'm having an experience of more than 1.5 years on working with most popular framework of PHP - Laravel.
+description: I'm having an experience of more than 1.5 years on working with most popular framework of PHP - Laravel. I can provide you a highly optimised and reusable Code with Laravel!
 
 ---
