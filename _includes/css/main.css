@@ -17,6 +17,9 @@ body {
 .navbar-nav>li>a {
     color: black !important;
 }
+.navbar-nav>.active>a {
+    background-color: #f9f2f4;
+}
 p {
     font-size: 20px;
 }
