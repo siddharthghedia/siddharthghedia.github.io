@@ -8,6 +8,13 @@ body {
     overflow-x: hidden;
 }
 
+.navbar-default {
+    background-color: white !important;
+}
+.navbar-brand {
+    color: black !important;
+}
+
 p {
     font-size: 20px;
 }
