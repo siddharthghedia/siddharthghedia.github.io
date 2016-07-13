@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: laravel.png
+img: laravel.svg
 alt: Laravel
 category: Web Development
 description: I'm having an experience of more than 1.5 years on working with most popular framework of PHP - Laravel.
