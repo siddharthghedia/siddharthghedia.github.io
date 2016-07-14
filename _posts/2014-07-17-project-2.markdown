@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-img: javascript.png
+img: javascript.jpg
 alt: Javascript
 category: Web Development
 title: Javascript
