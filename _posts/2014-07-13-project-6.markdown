@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: mysql.png
+img: mysql.jpg
 alt: Mysql
-project-date: April 2014
-client: Mysql
 category: Web Development
+title: MySQL
 description: I can work with Mysql for Database backend, which is an open source Relational Database Management System!
 
 ---
